@@ -1,4 +1,4 @@
 vCache
 ======
 
-Cache Library for Codeigniter, using database and json
+Database & JSON Driven Caching Library for CodeIgniter
